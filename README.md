@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/ce/2b/78/ce2b78a05838ef311c0868bb2fca0494.gif" width="400px" align="right" alt="Computer">
+<img src="https://i.gifer.com/Ugqj.gif" width="400px" align="right" alt="Computer">
 
 👋 Hi, I’m Igor Arcanjo, 17 years old.
 
