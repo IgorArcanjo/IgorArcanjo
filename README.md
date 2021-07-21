@@ -1,3 +1,5 @@
+<img src="https://i.imgur.com/PUPMTop.gif" width="400px" align="right" alt="Computer">
+
 👋 Hi, I’m Igor Arcanjo, 17 years old.
 
 👀 I’m interested in developing Spigot and Java projects.
