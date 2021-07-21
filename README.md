@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/yesFluk.jpeg" width="400px" align="right" alt="Computer">
+<img src="https://i.imgur.com/pvxE1T6.jpeg" width="400px" align="right" alt="Computer">
 
 👋 Hi, I’m Igor Arcanjo, 17 years old.
 
