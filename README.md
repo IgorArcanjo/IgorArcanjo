@@ -4,6 +4,8 @@
 
 🌱 I’m currently learning Java Development.
 
+📬 My contact email: contato.igorarcanjo@gmail.com
+
 ### How to reach me:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/igoorarcanjo)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/igoorarcanjo)
