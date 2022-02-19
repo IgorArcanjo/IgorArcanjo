@@ -4,7 +4,7 @@
 👀 I’m interested in developing Spigot and Java projects.
 
 
-🌱 I’m currently learning Java Development.
+🌱 I’m currently ADS.
 
 
 📬 My contact email: contato.igorarcanjo@gmail.com
